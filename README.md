@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## String
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
