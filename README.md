@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
