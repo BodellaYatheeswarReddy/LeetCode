@@ -1,35 +1,24 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        ArrayList<Integer> a=new ArrayList<>();
-        for(int l=0;l<students.length;l++){
-            a.add(students[l]);
+        Queue<Integer> q=new LinkedList<>();
+        for(int num:students){
+            q.add(num);
         }
-        ArrayList<Integer> b=new ArrayList<>();
-        for(int l=0;l<sandwiches.length;l++){
-            b.add(sandwiches[l]);
-        }
-        int i=0,count=0;
-        while(a.size()!=0){
-            if(a.get(i)==b.get(i)){
-                a.remove(i);
-                b.remove(i);
+        int count=0;
+        int i=0;
+        while(!q.isEmpty()){
+            if(q.peek()==sandwiches[i]){
+                q.remove();
+                i++;
+                count=0;
             }else{
-                int h=a.size();
-                for(int j=0;j<a.size();j++){
-                    if(a.get(j)==b.get(i)){
-                        a.remove(j);
-                        b.remove(i);
-                        break;
-                    }
-                }
-                if(a.size()==h){
+                q.add(q.remove());
+                count++;
+                if(q.size()==count){
                     break;
                 }
             }
         }
-        for(int k=0;k<a.size();k++){
-            count+=1;
-        }
-        return count;
+        return q.size();
     }
 }
