@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
