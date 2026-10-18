@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
