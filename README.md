@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
