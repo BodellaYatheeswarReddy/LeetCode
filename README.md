@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
