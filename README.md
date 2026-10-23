@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
