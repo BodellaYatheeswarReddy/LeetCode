@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2129-capitalize-the-title) |
+| [2409-count-days-spent-together](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2409-count-days-spent-together](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
