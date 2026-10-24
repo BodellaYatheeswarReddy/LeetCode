@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0707-design-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0707-design-linked-list](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
