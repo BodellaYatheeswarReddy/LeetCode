@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
