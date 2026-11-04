@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2129-capitalize-the-title) |
+| [2390-removing-stars-from-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
