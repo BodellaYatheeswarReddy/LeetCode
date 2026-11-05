@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## DP on Trees
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
