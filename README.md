@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -242,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0290-word-pattern) |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 ## Queue
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
@@ -371,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
