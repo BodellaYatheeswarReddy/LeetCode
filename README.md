@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1094-car-pooling) |
+| [1207-unique-number-of-occurrences](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
+| [1207-unique-number-of-occurrences](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
