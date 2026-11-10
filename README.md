@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0733-flood-fill](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
