@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0897-increasing-order-search-tree) |
