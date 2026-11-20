@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0374-guess-number-higher-or-lower](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0449-serialize-and-deserialize-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -417,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
