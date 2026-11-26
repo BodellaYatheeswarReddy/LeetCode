@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2409-count-days-spent-together](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
