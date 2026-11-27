@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -458,4 +460,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
