@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0118-pascals-triangle) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0506-relative-ranks) |
 | [0720-longest-word-in-dictionary](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0720-longest-word-in-dictionary) |
