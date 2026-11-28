@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0925-long-pressed-name](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/0925-long-pressed-name) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BodellaYatheeswarReddy/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## DP on Trees
